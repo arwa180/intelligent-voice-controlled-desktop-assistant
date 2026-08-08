@@ -1,0 +1,5 @@
+sounddevice
+pyttsx3
+pyautogui
+pyperclip
+vosk
